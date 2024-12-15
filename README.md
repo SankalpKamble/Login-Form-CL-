@@ -22,7 +22,7 @@ A simple and responsive login form with client-side validation built using HTML,
 ## Setup
 
 1. Clone the repository:
-   git clone
+   git clone https://github.com/SankalpKamble/Login-Form-CL-.git
 
 2. Open `index.html` in your web browser
 
